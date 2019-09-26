@@ -1,3 +1,3 @@
 # Hello-World-
 Introductory Lesson
-This program is easier than R studio.
+This program is easier than R studio!
